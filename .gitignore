@@ -1,0 +1,15 @@
+US Election 2020 Tweets.ipynb
+
+input/standarized_data/
+
+input/hashtag_donaldtrump.csv
+input/hashtag_joebiden.csv
+
+input/test_hashtag_donaldtrump.csv
+input/test_hashtag_joebiden.csv
+
+input/train_hashtag_donaldtrump.csv
+input/train_hashtag_joebiden.csv
+
+input/val_hashtag_donaldtrump.csv
+input/val_hashtag_joebiden.csv
